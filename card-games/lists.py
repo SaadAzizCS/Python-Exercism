@@ -98,4 +98,3 @@ def maybe_double_last(hand):
         hand[-1] = 11*2
         return hand
     return hand
-
